@@ -26,3 +26,14 @@ The Chicago and New York City files also contain the following two columns:
 
 - Gender
 - Birth Year
+
+
+### Resources
+
+- https://docs.python.org/3/tutorial/
+- https://docs.python.org/3/library/index.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/index.html
+- http://scipy-lectures.org/intro/numpy/index.html
+- https://www.divvybikes.com/system-data
+- https://www.citibikenyc.com/system-data
+- https://www.capitalbikeshare.com/system-data
