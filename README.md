@@ -10,3 +10,19 @@ This project is part of the Programming for Data Science with Python at Udacity.
 ### Files used
 This repository contains three files that were used:
 chicago.csv, new_york_city.csv, washington.csv
+
+### Dataset
+
+The bike share system provider Motivate supplies the necessary data for this sharing system for many cities in the United States. The provided data in this script contains bike share data for the first six months of 2017 for the cities [Chicago](https://www.divvybikes.com/system-data), [New York City](https://www.citibikenyc.com/system-data), [Washington](https://www.capitalbikeshare.com/system-data). Data wranling has already been performed before in order to reduce columns to the following core six. The data files for all three cities contain the following columns:
+
+- Start Time
+- End Time
+- Trip Duration (in seconds)
+- Start Station
+- End Station
+- User Type
+
+The Chicago and New York City files also contain the following two columns:
+
+- Gender
+- Birth Year
